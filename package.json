@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-template",
+  "version": "0.0.1",
+  "description": "deno admin",
+  "main": "index.js",
+  "authors": {
+    "name": "xunzhaotech",
+    "email": "xunzhaotech@aliyun.com"
+  },
+  "repository": "http://www.xunzhaotech.com/docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
